@@ -1,0 +1,15 @@
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\bin\Debug\net8.0\task1.exe
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\bin\Debug\net8.0\task1.deps.json
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\bin\Debug\net8.0\task1.runtimeconfig.json
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\bin\Debug\net8.0\task1.dll
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\bin\Debug\net8.0\task1.pdb
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\task1.AssemblyInfoInputs.cache
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\task1.AssemblyInfo.cs
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\task1.sourcelink.json
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\task1.dll
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\refint\task1.dll
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\task1.pdb
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
+C:\Users\VitaliK\Desktop\HomeWork3c#\task1\obj\Debug\net8.0\ref\task1.dll
